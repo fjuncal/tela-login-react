@@ -5,7 +5,6 @@ function App() {
 
   return (
     <div className='App'>
-      <p>Página de login</p>
       <Login/>
     </div>
   )
